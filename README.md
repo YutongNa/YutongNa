@@ -63,6 +63,6 @@
 
 ### 🤝 Let's Get In Touch  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/yutong-na-1006)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/yutong-na-1oo6)  
 [![Email](https://img.shields.io/badge/Email-Connect-red?logo=gmail)](mailto:yutong.na.tech@gmail.com)
 
