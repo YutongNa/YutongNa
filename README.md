@@ -1,68 +1,67 @@
-# Hi there! I'm Yutong 👋  
-
 ![Banner](#) <!-- You can replace this with a custom banner image or gif -->  
 
-## 📖 About Me  
-I’m a Data Scientist based in London with a strong foundation in machine learning, NLP, and AI systems. My passion lies in building real-world applications from academic research, with a focus on multi-agent systems and large language models.  
+## Hi there! I’m Yutong 👋
 
-- 🎓 Master’s in Data Science and Artificial Intelligence, Queen Mary University of London (2024).  
-- 🔍 Expertise in NLP, multi-agent LLMs, and computer vision.  
-- 🌍 Interested in applied AI for healthcare, intelligent agents, and information retrieval systems.  
+### 📖 About Me
 
----
+🎓 I am a recent Master’s graduate in **Data Science &  Artificial Intelligence** from Queen Mary University of London, graduated with Distinction (average 85/100).  
 
-## 🚀 What I'm Up To  
-- **Currently**  
-  - Data Analyst Intern at a ride-hailing company, analyzing large-scale mobility datasets to extract insights and support decision-making.  
-  - Focusing on designing and executing A/B tests to validate coupon strategies, and using machine learning to evaluate repurchase rates and cost-effectiveness ratios.  
-  - Developing a patent-writing AI agent with **LangGraph** and **RAG**, assisting in drafting and revising intellectual property documents.  
+📊 I am passionate about transforming data into actionable insights, with expertise in **machine learning, predictive modelling, statistical analysis, and data visualization**.  
 
-- **Looking Ahead**  
-  - Searching for a full-time role as **Data Scientist / ML Engineer / Data Analyst**.  
-  - Preparing to run a marathon 🏃 — one day soon!  
+💻 Proficient in **Python (Pandas, Scikit-learn, PyTorch), SQL, and BI tools** such as Tableau and Power BI, I enjoy building end-to-end solutions from data cleaning and feature engineering to model deployment and reporting.  
+
+📍 Currently based in London, working as a Data Analyst Intern at a ride-hailing platform, while seeking a full-time opportunity as a **Data Scientist / Data Analyst**.  
 
 ---
 
-## 🛠️ What I've Built  
+### 🛠️ Featured Projects
 
-| Project | Description | Technologies |
-|---------|-------------|--------------|
-| [AI Multi-Agent Project](#) | Built a multi-agent system with LLMs for clinical decision-making, enabling collaborative diagnosis and treatment suggestions. | LangGraph, RAG, OpenAI API, Python |
-| [Information Retrieval Project](#) | Designed a custom search engine with reranking for improved relevance. Built APIs with FastAPI and developed a lightweight frontend for demo. | FastAPI, PyTorch, React |
-| [Deep Learning Project](#) | Applied CNNs to image classification tasks, improving accuracy through data augmentation and hyperparameter tuning. | PyTorch, TensorFlow |
-| [Data Mining Project](#) | Extracted patterns from large-scale datasets, applying clustering and association rule mining to reveal actionable insights. | Scikit-learn, Pandas, SQL |
-| [Machine Learning Project](#) | Developed predictive models for structured datasets, including feature engineering and model interpretability. | Scikit-learn, XGBoost |
-| [Other Projects](#) | Add more — e.g. thesis, hackathon projects, or side projects with links. | *Fill in* |
-
-✨ *Tip: Use 2–3 sentences per project → challenge, your contribution, impact. Add live repo links wherever possible.*  
+| Project | Description | Skills |
+|---------|-------------|--------|
+| [Academic Paper Search Engine](https://github.com/YutongNa/Academic-Paper-Search-Engine) | Built a hybrid search engine for academic papers using BM25 and MiniLM semantic re-ranking, supporting keyword and natural language queries. Achieved 26% precision improvement on 150k arXiv computer vision papers. Backend: FastAPI; Frontend: React. | Information retrieval, hybrid search, semantic search (MiniLM), evaluation metrics, full-stack development, large-scale dataset handling |
+| [MediAgents](https://github.com/YutongNa/MediAgents-MDM) | Developed a multi-agent AI system for medical question answering with hierarchical collaboration and adaptive routing. Achieved 93.67% accuracy (+4.97% vs. baseline) and reduced token usage by 79%, demonstrating scalable LLM reasoning across difficulty levels. | Multi-agent systems, LLM orchestration, adaptive routing, medical QA, token-efficient LLM usage, Python/FastAPI, cross-model integration (GPT-4, Gemini 2.5), evaluation metrics |
+| [Audio Story Truth Detector](https://github.com/YutongNa/Audio-Story-Truth-Detector) | Built a machine learning system to detect deception in spoken stories. Extracted acoustic and prosodic features from 30-second audio samples and addressed class imbalance with SMOTE. Trained multiple classifiers (SVM, Random Forest, LightGBM) with grid search, achieving strong performance. | Audio signal processing, feature extraction, imbalanced data handling, ML model training and tuning, classification metrics, scikit-learn, librosa, LightGBM |
+| [Image Classification on CIFAR-10](https://github.com/YutongNa/Image-Classification-on-CIFAR-10) | Designed a custom ResNet-based CNN for CIFAR-10 classification, using data augmentation, batch normalization, and learning rate scheduling. Achieved 93.08% test accuracy, +8.08% above baseline. | Computer vision, CNN design, deep learning optimization, hyperparameter tuning, CUDA/GPU computing |
 
 ---
 
-## 💻 Skills & Technologies  
+### 💻 Skills & Technologies  
 
-**Programming & Data**  
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)  
+**Core Skills:**  
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) 
+![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white) 
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white) 
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikit-learn&logoColor=white) 
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)  
 
-**Machine Learning & AI**  
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikit-learn&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white) ![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?logo=huggingface&logoColor=black) ![LangChain](https://img.shields.io/badge/LangChain-000000?logoColor=white) ![LangGraph](https://img.shields.io/badge/LangGraph-000000?logoColor=white)  
-
-**NLP & IR**  
-![spaCy](https://img.shields.io/badge/spaCy-09A3D5?logo=spacy&logoColor=white) ![NLTK](https://img.shields.io/badge/NLTK-154570?logoColor=white)  
-
-**Deployment & Tools**  
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)  
-
-**Data Visualization**  
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-76B900?logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?logo=plotly&logoColor=white) ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?logo=powerbi&logoColor=black) ![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white)  
+**Also familiar with:**  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white) 
+![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white) 
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?logo=powerbi&logoColor=black) 
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) 
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
 
 ---
 
-## 🤝 Get In Touch  
+### 🔮 Currently & Looking Ahead  
+
+**Currently:**
+
+- Working as a Data Analyst Intern at a ride-hailing platform.  
+- Developing a patent-related AI agent project using LangGraph and RAG.  
+- Pursuing Microsoft Azure certifications to enhance cloud computing skills.
+
+**Looking ahead:**  
+
+- Searching for a full-time role as Data Scientist / ML Engineer / Data Analyst.  
+- Preparing to run a marathon 🏃 — one day soon!  
+- Continuously learning advanced machine learning techniques and contributing to open-source projects.  
+- Interested in applying AI and data science to impactful industries such as finance and healthcare.  
+
+---
+
+### 🤝 Let's Get In Touch  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/yutong-na-1006)  
-📧 Email: **yutong.na.tech@gmail.com**  
+[![Email](https://img.shields.io/badge/Email-Connect-red?logo=gmail)](mailto:yutong.na.tech@gmail.com)
 
----
-
-## 🌟 Let's Connect  
-*Turning data into decisions, and ideas into AI agents.*  
