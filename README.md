@@ -1,5 +1,3 @@
-![Banner](#) <!-- You can replace this with a custom banner image or gif -->  
-
 ## Hi there! I’m Yutong 👋
 
 ### 📖 About Me
