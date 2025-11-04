@@ -2,7 +2,7 @@
 
 ### 📖 About Me
 
-🎓 I am a recent Master’s graduate in **Data Science &  Artificial Intelligence** from Queen Mary University of London, graduated with Distinction (average 85/100).  
+🎓 I am a recent Master’s graduate in **Data Science &  Artificial Intelligence** from Queen Mary University of London, graduated with Distinction (average 81/100).  
 
 📊 I am passionate about transforming data into actionable insights, with expertise in **machine learning, predictive modelling, statistical analysis, and data visualization**.  
 
